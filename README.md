@@ -27,5 +27,6 @@ Git, GitHubについて
 
 # Reference
 GitHubの扱い方について  
-[ファイルの名前を変更する - GitHub Docs](https://docs.github.com/ja/repositories/working-with-files/managing-files/renaming-a-file)  
-[GitHub — READMEの作成方法と書き方【改行やリンク・画像の入れ方】| Howpon[ハウポン]](https://howpon.com/8334)
+・[ファイルの名前を変更する - GitHub Docs](https://docs.github.com/ja/repositories/working-with-files/managing-files/renaming-a-file)  
+・[GitHub — READMEの作成方法と書き方【改行やリンク・画像の入れ方】| Howpon[ハウポン]](https://howpon.com/8334)  
+・READMEをどのように書けば良いかの参考として、コードの著者のREADMEもいくつか拝見し、このREADMEを書きました。
