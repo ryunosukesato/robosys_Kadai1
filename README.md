@@ -1,6 +1,8 @@
 # robosys_Kadai1
 This is a repository for robosys Kadai1.
 
+# 編集途中です
+
 # License
 GPL-2.0 License
 
