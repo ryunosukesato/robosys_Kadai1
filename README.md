@@ -46,7 +46,7 @@ Git, GitHubについて
 ・[GitHub — READMEの作成方法と書き方【改行やリンク・画像の入れ方】| Howpon[ハウポン]](https://howpon.com/8334)  
 
 ### READMEについて
-・READMEをどのように書けば良いかの参考として、コードの著者[Ryuichi Ueda](https://github.com/ryuichiueda)のREADMEをいくつか拝見し、このREADMEを書きました
+・READMEをどのように書けば良いかの参考として、コードの著者[Ryuichi Ueda](https://github.com/ryuichiueda)のREADMEをいくつか拝見し、このREADMEを書きました  
 ・READMEに何を書いたのかを話した友人のリポジトリは こちら（←後ほどURLを貼ります）になります
 
 ## 必要となる道具とその扱い方について
