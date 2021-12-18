@@ -1,7 +1,7 @@
 # robosys_Kadai1
 This is a repository for robosys Kadai1.　ロボットシステム学　課題1のリポジトリです。
 
-# 現在、編集途中です
+# このリポジトリは古いものです。最新のリポジトリは[こちら](https://github.com/ryunosukesato/robosys_Kadai1_2)
 
 # License（ライセンス）
 GPL-2.0 License
