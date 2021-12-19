@@ -1,7 +1,22 @@
 # robosys_Kadai1
 This is a repository for robosys Kadai1.　ロボットシステム学　課題1のリポジトリです。
 
+
+# このリポジトリにはREADMEがmasterブランチにもありますが、このmainブランチのものを参照してください
+
 # このリポジトリは古いものです。最新のリポジトリは[こちら](https://github.com/ryunosukesato/robosys_Kadai1_2)
+お詫びの内容を全て訂正し、改良を加え、提出し終えたリポジトリが上記URLのリポジトリです。必ず、最新のリポジトリを参照してください。
+
+# お詫び
+このリポジトリには誤りがあります。以下に明記します。
+
+## READMEについて
+このリポジトリ内には、AuthorとWritten byがありますが、著者はRyuichi Uedaです。
+
+## myled.cに関して
+mainブランチのものは誤りがあります。masterブランチのものが正しいものです。
+
+# 以下は誤りがあったを含むすべてをそのまま残しています。必ず上記で示した最新のリポジトリを参照してください。
 
 # License（ライセンス）
 GPL-2.0 License
