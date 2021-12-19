@@ -1,6 +1,8 @@
 # robosys_Kadai1
 This is a repository for robosys Kadai1.　ロボットシステム学　課題1のリポジトリです。
 
+# mainブランチのREADMEを読んでください
+
 # 現在、編集途中です
 
 # License（ライセンス）
